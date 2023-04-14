@@ -1,0 +1,2 @@
+// sets the link prefix to the current version for when old versions get blocked
+UVVersion = "1"
