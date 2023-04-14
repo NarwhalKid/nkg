@@ -1,0 +1,5 @@
+If you're on firefox do the following to prevent a common error:
+
+1. open "about:config" in a new tab
+2. search for "network.http.referer.XOriginPolicy"
+3. set the value from "0" to "1"
